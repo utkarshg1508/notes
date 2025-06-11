@@ -35,7 +35,9 @@
         ./<installed_file> # Eg: ./sm2_installer_3.0_1983_staging
     ```
 
-## Steps to downgrade the docker version ([Reference](https://confluence.ngage.netapp.com/display/UMF/Setting+VM+for+Connector%2C+Restricted+site+and+Dark+site)) :
+## Steps to downgrade the docker version:
+Here is the reference [confluence page](https://confluence.ngage.netapp.com/display/UMF/Setting+VM+for+Connector%2C+Restricted+site+and+Dark+site)
+
 1. Run the below commands to uninstall docker from ubuntu:
     ```shell
         for pkg in docker.io docker-doc docker-compose docker-compose-v2 podman-docker containerd runc; do sudo apt-get remove $pkg; done
