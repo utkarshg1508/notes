@@ -7,11 +7,12 @@
 4. Select **Site** as **RTP**.
 5. Select **Template** as **gec_ubuntu22.04_ol - Ubuntu 22.04 Jammy Jellyfish**.
 6. Select **Flavor** as **m8.Small**.
-7. Enter a **Purpose** for the VM.
-8. Click **Submit Request**.
-9. You will see your VM under **My Requests**.
-10. Expand the row to view the IP address of your VM.
-11. Click **Show Credentials** to see the password.
+7. Keep **Quantity** as 1.
+8. Enter a **Purpose** for the VM.
+9. Click **Submit Request**.
+10. You will see your VM under **My Requests**.
+11. Expand the row to view the IP address of your VM.
+12. Click **Show Credentials** to see the password.
 
 ## Steps to install BlueXP inside that VM:
 1. Run the below command to connect with your vm from cli:
@@ -30,7 +31,11 @@
     ```
     You can get your latest installer link by going to this [Teamcity Page](https://teamcity.platform.bluexp.netapp.com/buildConfiguration/OccmServiceAgentInfrastructure_ClientDeployment_ServiceManagerV2_CreateServiceMangerV2?mode=builds#all-projects) and click on the latest build number > Artifcats > installer_details.txt Eg: "https://s3-us-west-2.amazonaws.com/occm-installer/service-manager-v2/sm2_installer_3.0_1983_staging".
 4. Now once you do "ls" you will be able to see "sm2_installer_3.0_1983_staging" file.
-5. Finally run the below command:
+5. Give the above file read write and execute permission to file owner, group owner and for others (everyone else)
+    ```shell
+        chmod 777 <installed_file> # Eg: ./sm2_installer_3.0_1983_staging
+    ```
+6. Finally run the below command:
     ```shell
         ./<installed_file> # Eg: ./sm2_installer_3.0_1983_staging
     ```
