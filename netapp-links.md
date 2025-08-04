@@ -1,7 +1,7 @@
 # NetApp Links
 1. [Learning Center](https://netapp.sabacloud.com/Saba/Web_spf/NA1PRD0047/app/dashboard)
 
-2. [Net AI Chat App](https://netaichat.netapp.com/)
+2. [NetApp Engineering AI Chat](https://chat.ai.openeng.netapp.com/)
 
 3. [Employee Visit Dashboard](https://app.powerbi.com/groups/me/apps/5dfa6db0-920b-421f-9ab0-01e12cc00b33/reports/e94f85ed-f6ed-402b-92ae-94441b3d0ce6/bf7ede2381ee945e97f5?experience=power-bi&clientSideAuth=0)
 
@@ -25,6 +25,7 @@
         7. [Service Manager V2 Staging Teamcity](https://teamcity.platform.bluexp.netapp.com/buildConfiguration/OccmServiceAgentInfrastructure_ClientDeployment_ServiceManagerV2_CreateServiceMangerV2?mode=builds#all-projects)
         8. [OCCM Repo](https://bitbucket.ngage.netapp.com/projects/OCCM/repos/occm/browse)
         9. [OCCM PRs](https://bitbucket.ngage.netapp.com/projects/OCCM/repos/occm/pull-requests)
+        10. [Q Tests](https://qtest.ngage.netapp.com/p/119/portal/project#tab=requirements)
     3. BlueXP Design System:
         1. [Styleguide](https://styleguide.services.cloud.netapp.com/)
         2. [Design System Repo](https://bitbucket.ngage.netapp.com/projects/OCCM/repos/bluexp-design-system/browse)
