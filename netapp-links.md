@@ -44,3 +44,5 @@
             1. [Setting VM for Connector, Restricted site and Dark site](https://confluence.ngage.netapp.com/display/UMF/Setting+VM+for+Connector%2C+Restricted+site+and+Dark+site)
         5. 2026 Fleet Management:
             1. [Fleet Management Plan](https://confluence.ngage.netapp.com/spaces/UMF/pages/1364831584/High+level+Plan)
+        6. Browser Caching:
+            1. [Browser Caching Documentation](https://confluence.ngage.netapp.com/spaces/UMF/pages/1256655403/NetApp+Console+-+Browser+Cache#)
