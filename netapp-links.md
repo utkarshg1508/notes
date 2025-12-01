@@ -43,8 +43,11 @@
         4. Connector:
             1. [Setting VM for Connector, Restricted site and Dark site](https://confluence.ngage.netapp.com/display/UMF/Setting+VM+for+Connector%2C+Restricted+site+and+Dark+site)
         5. 2026 Fleet Management:
-            1. [Fleet Management Plan](https://confluence.ngage.netapp.com/spaces/UMF/pages/1364831584/High+level+Plan)
-            2. [NCL](https://confluence.ngage.netapp.com/spaces/UMF/pages/1355797901/NCL)
-            3. [Figma](https://www.figma.com/proto/Bqtf7z63RSMmgsHRt71mey/%F0%9F%8F%8E%EF%B8%8F-Fleet-Management?node-id=74-8816&scaling=scale-down-width&content-scaling=fixed&t=GEBeWW7TMeUyswIO-1)
+            1. [Fleet Management Index Page](https://confluence.ngage.netapp.com/spaces/UMF/pages/1364831581/Fleet+Management+Index+Page)
+            2. [Fleet Management Plan](https://confluence.ngage.netapp.com/spaces/UMF/pages/1364831584/High+level+Plan)
+            3. [NCL](https://confluence.ngage.netapp.com/spaces/UMF/pages/1355797901/NCL)
+            4. [Figma](https://www.figma.com/proto/Bqtf7z63RSMmgsHRt71mey/%F0%9F%8F%8E%EF%B8%8F-Fleet-Management?node-id=74-8816&scaling=scale-down-width&content-scaling=fixed&t=GEBeWW7TMeUyswIO-1)
         6. Browser Caching:
             1. [Browser Caching Documentation](https://confluence.ngage.netapp.com/spaces/UMF/pages/1256655403/NetApp+Console+-+Browser+Cache#)
+        7. OnPrem
+            1. [On-prem Discovery Details](https://confluence.ngage.netapp.com/spaces/UMF/pages/1323854287/On-prem+discovery+details)
