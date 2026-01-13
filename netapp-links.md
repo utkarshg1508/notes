@@ -46,3 +46,9 @@
             1. [Fleet Management Plan](https://confluence.ngage.netapp.com/spaces/UMF/pages/1364831584/High+level+Plan)
         6. Browser Caching:
             1. [Browser Caching Documentation](https://confluence.ngage.netapp.com/spaces/UMF/pages/1256655403/NetApp+Console+-+Browser+Cache#)
+        7. NCL:
+            1. [NCL Documentation](https://confluence.ngage.netapp.com/spaces/UMF/pages/1364831581/NetApp+Console+Local+Index+Page+CO-1+CO-2+CO-6)
+            2. Storage Classes & Policies
+                1. [Storage Classes PRD](https://confluence.ngage.netapp.com/spaces/OSSG/pages/1378918279/Storage+Classes+in+NetApp+Console+local%C2%A0)
+                2. [Storage Management Service Architecture](https://confluence.ngage.netapp.com/spaces/UMF/pages/1383058201/Storage+Management+Service+-+Architecture)
+                3. [Figma](https://www.figma.com/design/8D1e8mQT0Rq589SCiLNWvN/%F0%9F%8F%8E%EF%B8%8F-NCL---Policies?node-id=2-132&p=f&m=dev)
