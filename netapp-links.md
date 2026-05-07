@@ -3,7 +3,7 @@
 
 2. [NetApp Engineering AI Chat](https://chat.ai.openeng.netapp.com/)
 
-3. [Employee Visit Dashboard](https://app.powerbi.com/groups/me/apps/5dfa6db0-920b-421f-9ab0-01e12cc00b33/reports/e94f85ed-f6ed-402b-92ae-94441b3d0ce6/bf7ede2381ee945e97f5?experience=power-bi&clientSideAuth=0)
+3. [Employee Visit Dashboard](https://netapp.sharepoint.com/sites/ThriveTogether/SitePages/Employee-Office-Visit-Dashboard.aspx?source=SiteSettings)
 
 4. Sharepoint
     1. [MyNetApp](https://netapp.sharepoint.com/sites/MyNetApp/SitePages/Home.aspx)
